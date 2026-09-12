@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: business-operator-demo
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: python demo_server.py
