@@ -1,0 +1,2 @@
+# Business Operator demo has no third-party runtime dependency.
+# Python standard library is sufficient.
