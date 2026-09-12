@@ -1,4 +1,4 @@
-from __future__
+from __future__ import annotations
 import csv, hashlib, json, re, sqlite3, time
 from dataclasses import dataclass
 from datetime import datetime
